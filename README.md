@@ -27,8 +27,8 @@ This project serves to detect elevated temperature and smoke, determining whethe
 ## Internal EEPROM is used to save the password and enable to change of the password at any time.
 
 # The project simulation:
-<img src="https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG" width=100%>
-[![Watch the video](https://github.com/msayed6789/Smart_Home_Embedd_Project/blob/main/Photos/smart%20home.PNG)]().
+<img src="https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG" width=100%>
+[![Watch the video](https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG)]().
 <br>
 <br>
 
