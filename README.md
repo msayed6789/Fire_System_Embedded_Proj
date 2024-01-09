@@ -1,2 +1,2 @@
 # Fire_System_Embedded_Proj
-This project is designed to identify elevated temperature and smoke levels. It autonomously decides to activate the fan or initiate system lockdown. Unauthorized access is prevented through a password, and indicators signal high temperature or smoke occurrences.
+This project serves to detect elevated temperature and smoke, determining whether to activate the fan or initiate system lockdown, accessible only with the correct password. Indicators display high temperature or smoke, and a reset password button allows real-time password changes.
