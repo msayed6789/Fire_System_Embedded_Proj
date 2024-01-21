@@ -28,7 +28,7 @@ This project serves to detect elevated temperature and smoke, determining whethe
 
 # The project simulation:
 <img src="https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG" width=100%>
-[![Watch the video](https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG)()].
+[![Watch the video](https://drive.google.com/drive/folders/1vkruFa106pO8n3z8kkB5f8kN2xs9AePs?usp=sharing)()].
 <br>
 <br>
 
